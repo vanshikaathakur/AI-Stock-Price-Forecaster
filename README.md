@@ -123,7 +123,7 @@ AI-Stock-Price-Forecaster/
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/your-username/AI-Stock-Price-Forecaster.git
+git clone https://github.com/vanshikaathakur/AI-Stock-Price-Forecaster.git
 cd AI-Stock-Price-Forecaster
 ```
 
